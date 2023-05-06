@@ -1,0 +1,36 @@
+# SCAR - Security Code Analysis & Review Tool
+# Core dependencies
+
+# Web framework for dashboard
+flask==2.3.2
+flask-cors==4.0.0
+
+# File handling and analysis
+pathlib2==2.3.7
+chardet==5.1.0
+
+# Data processing
+pandas==2.0.3
+numpy==1.24.3
+
+# AST parsing and code analysis
+ast==0.0.1
+astunparse==1.6.3
+
+# JSON and configuration
+jsonschema==4.18.4
+pyyaml==6.0.1
+
+# Development and testing
+pytest==7.4.0
+pytest-cov==4.1.0
+black==23.7.0
+flake8==6.0.0
+
+# Security libraries
+cryptography==41.0.3
+hashlib3==2.1.0
+
+# Web dashboard dependencies
+jinja2==3.1.2
+werkzeug==2.3.6 
