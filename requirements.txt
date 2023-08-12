@@ -17,6 +17,9 @@ numpy==1.24.3
 ast==0.0.1
 astunparse==1.6.3
 
+# Graph analysis for flow tracking
+networkx==3.1
+
 # JSON and configuration
 jsonschema==4.18.4
 pyyaml==6.0.1
