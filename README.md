@@ -1,4 +1,4 @@
-# SCAR - Security Code Analysis & Review Tool
+# SCAR - AI assisted Security Code Analysis & Review Tool 
 
 ![SCAR Logo](https://img.shields.io/badge/SCAR-Security%20Analysis-red)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
